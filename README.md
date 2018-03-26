@@ -20,7 +20,7 @@ Vulnerability #1: SQL Injection
 ![Alt Text](https://github.com/ClaytonRichardson/codepath-week-8/blob/master/week8vuln1.gif)
 
 Vulnerability #2: Session Hijacking
-
+![Alt Text](https://github.com/ClaytonRichardson/codepath-week-8/blob/master/week8vuln2.gif)
 
 ## Green
 
