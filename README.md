@@ -1,6 +1,6 @@
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -26,12 +26,12 @@ Vulnerability #2: Session Hijacking
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Username Enumeration
 
 ![Alt Text](https://github.com/ClaytonRichardson/codepath-week-8/blob/master/week8vuln3.gif)
 
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross-Site Scripting
 
 ![Alt Text](https://github.com/ClaytonRichardson/codepath-week-8/blob/master/week8vuln4.gif)
 
@@ -39,12 +39,12 @@ Vulnerability #2: __________________
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Cross-Site Request Forgery
 
 ![Alt Text](https://github.com/ClaytonRichardson/codepath-week-8/blob/master/week8vuln5.gif)
 
 
-Vulnerability #2: __________________
+Vulnerability #2: Insecure Direct Object Reference
 
 ![Alt Text](https://github.com/ClaytonRichardson/codepath-week-8/blob/master/week8vuln6.gif)
 
