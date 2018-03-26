@@ -17,23 +17,37 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection
+
 ![Alt Text](https://github.com/ClaytonRichardson/codepath-week-8/blob/master/week8vuln1.gif)
 
 Vulnerability #2: Session Hijacking
+
 ![Alt Text](https://github.com/ClaytonRichardson/codepath-week-8/blob/master/week8vuln2.gif)
 
 ## Green
 
 Vulnerability #1: __________________
 
+![Alt Text](https://github.com/ClaytonRichardson/codepath-week-8/blob/master/week8vuln3.gif)
+
+
 Vulnerability #2: __________________
+
+![Alt Text](https://github.com/ClaytonRichardson/codepath-week-8/blob/master/week8vuln4.gif)
+
 
 
 ## Red
 
 Vulnerability #1: __________________
 
+![Alt Text](https://github.com/ClaytonRichardson/codepath-week-8/blob/master/week8vuln5.gif)
+
+
 Vulnerability #2: __________________
+
+![Alt Text](https://github.com/ClaytonRichardson/codepath-week-8/blob/master/week8vuln6.gif)
+
 
 
 ## Notes
